@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+   background-color: #ACCBE1;
+   border: 3px dashed #2E2D4D;
+   font-size: 35px;
+   text-align: center;
+}
+.link-header{
+text-decoration: none;
+font-size: 35px;
+}
+.link-nav{
+    text-decoration: none;
+    font-size: 18px;
+    color:#009FFD;
+}
+.link-header:hover{
+color:#009FFD;
+border:3px dashed #F06C9B;
+}
+.link-nav:hover{
+box-shadow: 3px 3px 3px 0px #425966;
+padding: 3px;
+}
